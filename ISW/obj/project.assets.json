@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\cesar\\OneDrive - UPV\\Teoria\\Tercero\\ISW\\Coding\\ISW\\ISW.csproj",
+      "projectUniqueName": "c:\\Users\\cesar\\OneDrive - UPV\\Teoria\\Tercero\\ISW\\ISW Coding\\ISW\\ISW.csproj",
       "projectName": "ISW",
-      "projectPath": "c:\\Users\\cesar\\OneDrive - UPV\\Teoria\\Tercero\\ISW\\Coding\\ISW\\ISW.csproj",
+      "projectPath": "c:\\Users\\cesar\\OneDrive - UPV\\Teoria\\Tercero\\ISW\\ISW Coding\\ISW\\ISW.csproj",
       "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\cesar\\OneDrive - UPV\\Teoria\\Tercero\\ISW\\Coding\\ISW\\obj\\",
+      "outputPath": "c:\\Users\\cesar\\OneDrive - UPV\\Teoria\\Tercero\\ISW\\ISW Coding\\ISW\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cesar\\AppData\\Roaming\\NuGet\\NuGet.Config"
