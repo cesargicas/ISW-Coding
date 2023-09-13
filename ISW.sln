@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISW", "ISW\ISW.csproj", "{5F4DCCD7-8B77-4F64-9689-2CF6565FCDAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F4DCCD7-8B77-4F64-9689-2CF6565FCDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4DCCD7-8B77-4F64-9689-2CF6565FCDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4DCCD7-8B77-4F64-9689-2CF6565FCDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4DCCD7-8B77-4F64-9689-2CF6565FCDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
